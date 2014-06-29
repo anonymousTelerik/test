@@ -1,8 +1,0 @@
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\bin\Debug\LogTest.exe.config
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\bin\Debug\LogTest.exe
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\bin\Debug\LogTest.pdb
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\bin\Debug\log4net.dll
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\bin\Debug\log4net.xml
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\obj\Debug\LogTest.csprojResolveAssemblyReference.cache
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\obj\Debug\LogTest.exe
-C:\Users\milan\Desktop\HW-Tools\LogTest\LogTest\obj\Debug\LogTest.pdb
